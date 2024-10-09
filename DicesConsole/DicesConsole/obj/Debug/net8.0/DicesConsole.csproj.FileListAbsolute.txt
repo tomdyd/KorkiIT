@@ -1,0 +1,14 @@
+D:\Egzamin1\DicesConsole\DicesConsole\bin\Debug\net8.0\DicesConsole.exe
+D:\Egzamin1\DicesConsole\DicesConsole\bin\Debug\net8.0\DicesConsole.deps.json
+D:\Egzamin1\DicesConsole\DicesConsole\bin\Debug\net8.0\DicesConsole.runtimeconfig.json
+D:\Egzamin1\DicesConsole\DicesConsole\bin\Debug\net8.0\DicesConsole.dll
+D:\Egzamin1\DicesConsole\DicesConsole\bin\Debug\net8.0\DicesConsole.pdb
+D:\Egzamin1\DicesConsole\DicesConsole\obj\Debug\net8.0\DicesConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Egzamin1\DicesConsole\DicesConsole\obj\Debug\net8.0\DicesConsole.AssemblyInfoInputs.cache
+D:\Egzamin1\DicesConsole\DicesConsole\obj\Debug\net8.0\DicesConsole.AssemblyInfo.cs
+D:\Egzamin1\DicesConsole\DicesConsole\obj\Debug\net8.0\DicesConsole.csproj.CoreCompileInputs.cache
+D:\Egzamin1\DicesConsole\DicesConsole\obj\Debug\net8.0\DicesConsole.dll
+D:\Egzamin1\DicesConsole\DicesConsole\obj\Debug\net8.0\refint\DicesConsole.dll
+D:\Egzamin1\DicesConsole\DicesConsole\obj\Debug\net8.0\DicesConsole.pdb
+D:\Egzamin1\DicesConsole\DicesConsole\obj\Debug\net8.0\DicesConsole.genruntimeconfig.cache
+D:\Egzamin1\DicesConsole\DicesConsole\obj\Debug\net8.0\ref\DicesConsole.dll
