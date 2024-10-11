@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Egzamin1\\DicesConsole\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A4E2B30-25A0-4766-B54F-4748526D0F6B}|DicesConsole\\DicesConsole.csproj|d:\\egzamin1\\dicesconsole\\dicesconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A4E2B30-25A0-4766-B54F-4748526D0F6B}|DicesConsole\\DicesConsole.csproj|solutionrelative:dicesconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4A4E2B30-25A0-4766-B54F-4748526D0F6B}|DicesConsole\\DicesConsole.csproj|d:\\egzamin1\\dicesconsole\\dicesconsole\\dicescollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A4E2B30-25A0-4766-B54F-4748526D0F6B}|DicesConsole\\DicesConsole.csproj|solutionrelative:dicesconsole\\dicescollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A4E2B30-25A0-4766-B54F-4748526D0F6B}|DicesConsole\\DicesConsole.csproj|d:\\egzamin1\\dicesconsole\\dicesconsole\\dicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A4E2B30-25A0-4766-B54F-4748526D0F6B}|DicesConsole\\DicesConsole.csproj|solutionrelative:dicesconsole\\dicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4E2B30-25A0-4766-B54F-4748526D0F6B}|DicesConsole\\DicesConsole.csproj|d:\\egzamin1\\dicesconsole\\dicesconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4E2B30-25A0-4766-B54F-4748526D0F6B}|DicesConsole\\DicesConsole.csproj|solutionrelative:dicesconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A4E2B30-25A0-4766-B54F-4748526D0F6B}|DicesConsole\\DicesConsole.csproj|d:\\egzamin1\\dicesconsole\\dicesconsole\\dicesconsole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,39 +47,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DicesCollection.cs",
               "DocumentMoniker": "D:\\Egzamin1\\DicesConsole\\DicesConsole\\DicesCollection.cs",
               "RelativeDocumentMoniker": "DicesConsole\\DicesCollection.cs",
-              "ToolTip": "D:\\Egzamin1\\DicesConsole\\DicesConsole\\DicesCollection.cs*",
-              "RelativeToolTip": "DicesConsole\\DicesCollection.cs*",
-              "ViewState": "AgIAABoAAAAAAAAAAAAwwDYAAAANAAAAAAAAAA==",
+              "ToolTip": "D:\\Egzamin1\\DicesConsole\\DicesConsole\\DicesCollection.cs",
+              "RelativeToolTip": "DicesConsole\\DicesCollection.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwEQAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-07T16:12:42.905Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "DiceModel.cs",
               "DocumentMoniker": "D:\\Egzamin1\\DicesConsole\\DicesConsole\\DiceModel.cs",
               "RelativeDocumentMoniker": "DicesConsole\\DiceModel.cs",
               "ToolTip": "D:\\Egzamin1\\DicesConsole\\DicesConsole\\DiceModel.cs",
               "RelativeToolTip": "DicesConsole\\DiceModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-07T16:04:17.292Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Egzamin1\\DicesConsole\\DicesConsole\\Program.cs",
               "RelativeDocumentMoniker": "DicesConsole\\Program.cs",
-              "ToolTip": "D:\\Egzamin1\\DicesConsole\\DicesConsole\\Program.cs*",
-              "RelativeToolTip": "DicesConsole\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAzAAAAAAAAAA==",
+              "ToolTip": "D:\\Egzamin1\\DicesConsole\\DicesConsole\\Program.cs",
+              "RelativeToolTip": "DicesConsole\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-07T15:24:55.709Z",
               "EditorCaption": ""

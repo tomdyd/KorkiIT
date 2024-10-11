@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Egzamin1\\DicesConsole\\DicesConsole\\DicesConsole.csproj": {}
+    "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\DicesConsole\\DicesConsole\\DicesConsole.csproj": {}
   },
   "projects": {
-    "D:\\Egzamin1\\DicesConsole\\DicesConsole\\DicesConsole.csproj": {
+    "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\DicesConsole\\DicesConsole\\DicesConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Egzamin1\\DicesConsole\\DicesConsole\\DicesConsole.csproj",
+        "projectUniqueName": "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\DicesConsole\\DicesConsole\\DicesConsole.csproj",
         "projectName": "DicesConsole",
-        "projectPath": "D:\\Egzamin1\\DicesConsole\\DicesConsole\\DicesConsole.csproj",
+        "projectPath": "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\DicesConsole\\DicesConsole\\DicesConsole.csproj",
         "packagesPath": "C:\\Users\\tdyda\\.nuget\\packages\\",
-        "outputPath": "D:\\Egzamin1\\DicesConsole\\DicesConsole\\obj\\",
+        "outputPath": "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\DicesConsole\\DicesConsole\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

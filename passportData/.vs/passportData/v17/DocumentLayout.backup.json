@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\passportData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{529F9283-D6C7-4094-AB82-1EB8DE48A67C}|passportData\\passportData.csproj|c:\\users\\tdyda\\source\\repos\\korkiit\\passportdata\\passportdata\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529F9283-D6C7-4094-AB82-1EB8DE48A67C}|passportData\\passportData.csproj|solutionrelative:passportdata\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529F9283-D6C7-4094-AB82-1EB8DE48A67C}|passportData\\passportData.csproj|c:\\users\\tdyda\\source\\repos\\korkiit\\passportdata\\passportdata\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{529F9283-D6C7-4094-AB82-1EB8DE48A67C}|passportData\\passportData.csproj|solutionrelative:passportdata\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529F9283-D6C7-4094-AB82-1EB8DE48A67C}|passportData\\passportData.csproj|c:\\users\\tdyda\\source\\repos\\korkiit\\passportdata\\passportdata\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529F9283-D6C7-4094-AB82-1EB8DE48A67C}|passportData\\passportData.csproj|solutionrelative:passportdata\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529F9283-D6C7-4094-AB82-1EB8DE48A67C}|passportData\\passportData.csproj|c:\\users\\tdyda\\source\\repos\\korkiit\\passportdata\\passportdata\\passportdata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{529F9283-D6C7-4094-AB82-1EB8DE48A67C}|passportData\\passportData.csproj|solutionrelative:passportdata\\passportdata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529F9283-D6C7-4094-AB82-1EB8DE48A67C}|passportData\\passportData.csproj|c:\\users\\tdyda\\source\\repos\\korkiit\\passportdata\\passportdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529F9283-D6C7-4094-AB82-1EB8DE48A67C}|passportData\\passportData.csproj|solutionrelative:passportdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\passportData\\passportData\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "passportData\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\passportData\\passportData\\Form1.Designer.cs",
+              "RelativeToolTip": "passportData\\Form1.Designer.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAEwIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:52:24.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\passportData\\passportData\\Form1.cs",
+              "RelativeDocumentMoniker": "passportData\\Form1.cs",
+              "ToolTip": "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\passportData\\passportData\\Form1.cs [Design]*",
+              "RelativeToolTip": "passportData\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:38:56.652Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\passportData\\passportData\\Form1.cs",
+              "RelativeDocumentMoniker": "passportData\\Form1.cs",
+              "ToolTip": "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\passportData\\passportData\\Form1.cs*",
+              "RelativeToolTip": "passportData\\Form1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T16:36:32.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "passportData",
+              "DocumentMoniker": "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\passportData\\passportData\\passportData.csproj",
+              "RelativeDocumentMoniker": "passportData\\passportData.csproj",
+              "ToolTip": "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\passportData\\passportData\\passportData.csproj",
+              "RelativeToolTip": "passportData\\passportData.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-10T16:29:08.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\passportData\\passportData\\Program.cs",
+              "RelativeDocumentMoniker": "passportData\\Program.cs",
+              "ToolTip": "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\passportData\\passportData\\Program.cs",
+              "RelativeToolTip": "passportData\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T16:29:00.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

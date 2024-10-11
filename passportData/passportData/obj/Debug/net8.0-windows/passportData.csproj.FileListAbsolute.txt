@@ -1,0 +1,17 @@
+C:\Users\tdyda\source\repos\KorkiIT\passportData\passportData\bin\Debug\net8.0-windows\passportData.exe
+C:\Users\tdyda\source\repos\KorkiIT\passportData\passportData\bin\Debug\net8.0-windows\passportData.deps.json
+C:\Users\tdyda\source\repos\KorkiIT\passportData\passportData\bin\Debug\net8.0-windows\passportData.runtimeconfig.json
+C:\Users\tdyda\source\repos\KorkiIT\passportData\passportData\bin\Debug\net8.0-windows\passportData.dll
+C:\Users\tdyda\source\repos\KorkiIT\passportData\passportData\bin\Debug\net8.0-windows\passportData.pdb
+C:\Users\tdyda\source\repos\KorkiIT\passportData\passportData\obj\Debug\net8.0-windows\passportData.Form1.resources
+C:\Users\tdyda\source\repos\KorkiIT\passportData\passportData\obj\Debug\net8.0-windows\passportData.csproj.GenerateResource.cache
+C:\Users\tdyda\source\repos\KorkiIT\passportData\passportData\obj\Debug\net8.0-windows\passportData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tdyda\source\repos\KorkiIT\passportData\passportData\obj\Debug\net8.0-windows\passportData.AssemblyInfoInputs.cache
+C:\Users\tdyda\source\repos\KorkiIT\passportData\passportData\obj\Debug\net8.0-windows\passportData.AssemblyInfo.cs
+C:\Users\tdyda\source\repos\KorkiIT\passportData\passportData\obj\Debug\net8.0-windows\passportData.csproj.CoreCompileInputs.cache
+C:\Users\tdyda\source\repos\KorkiIT\passportData\passportData\obj\Debug\net8.0-windows\passportData.sourcelink.json
+C:\Users\tdyda\source\repos\KorkiIT\passportData\passportData\obj\Debug\net8.0-windows\passportData.dll
+C:\Users\tdyda\source\repos\KorkiIT\passportData\passportData\obj\Debug\net8.0-windows\refint\passportData.dll
+C:\Users\tdyda\source\repos\KorkiIT\passportData\passportData\obj\Debug\net8.0-windows\passportData.pdb
+C:\Users\tdyda\source\repos\KorkiIT\passportData\passportData\obj\Debug\net8.0-windows\passportData.genruntimeconfig.cache
+C:\Users\tdyda\source\repos\KorkiIT\passportData\passportData\obj\Debug\net8.0-windows\ref\passportData.dll

@@ -1,0 +1,15 @@
+C:\Users\tdyda\source\repos\KorkiIT\PESEL\peselChecker\peselChecker\obj\Debug\net8.0\peselChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tdyda\source\repos\KorkiIT\PESEL\peselChecker\peselChecker\obj\Debug\net8.0\peselChecker.AssemblyInfoInputs.cache
+C:\Users\tdyda\source\repos\KorkiIT\PESEL\peselChecker\peselChecker\obj\Debug\net8.0\peselChecker.AssemblyInfo.cs
+C:\Users\tdyda\source\repos\KorkiIT\PESEL\peselChecker\peselChecker\obj\Debug\net8.0\peselChecker.csproj.CoreCompileInputs.cache
+C:\Users\tdyda\source\repos\KorkiIT\PESEL\peselChecker\peselChecker\obj\Debug\net8.0\peselChecker.sourcelink.json
+C:\Users\tdyda\source\repos\KorkiIT\PESEL\peselChecker\peselChecker\bin\Debug\net8.0\peselChecker.exe
+C:\Users\tdyda\source\repos\KorkiIT\PESEL\peselChecker\peselChecker\bin\Debug\net8.0\peselChecker.deps.json
+C:\Users\tdyda\source\repos\KorkiIT\PESEL\peselChecker\peselChecker\bin\Debug\net8.0\peselChecker.runtimeconfig.json
+C:\Users\tdyda\source\repos\KorkiIT\PESEL\peselChecker\peselChecker\bin\Debug\net8.0\peselChecker.dll
+C:\Users\tdyda\source\repos\KorkiIT\PESEL\peselChecker\peselChecker\bin\Debug\net8.0\peselChecker.pdb
+C:\Users\tdyda\source\repos\KorkiIT\PESEL\peselChecker\peselChecker\obj\Debug\net8.0\peselChecker.dll
+C:\Users\tdyda\source\repos\KorkiIT\PESEL\peselChecker\peselChecker\obj\Debug\net8.0\refint\peselChecker.dll
+C:\Users\tdyda\source\repos\KorkiIT\PESEL\peselChecker\peselChecker\obj\Debug\net8.0\peselChecker.pdb
+C:\Users\tdyda\source\repos\KorkiIT\PESEL\peselChecker\peselChecker\obj\Debug\net8.0\peselChecker.genruntimeconfig.cache
+C:\Users\tdyda\source\repos\KorkiIT\PESEL\peselChecker\peselChecker\obj\Debug\net8.0\ref\peselChecker.dll

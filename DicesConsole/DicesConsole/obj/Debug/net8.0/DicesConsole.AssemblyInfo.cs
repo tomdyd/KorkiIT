@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DicesConsole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f856116d2c36c3d2bf8076f898151f6420b8c2e")]
 [assembly: System.Reflection.AssemblyProductAttribute("DicesConsole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DicesConsole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
