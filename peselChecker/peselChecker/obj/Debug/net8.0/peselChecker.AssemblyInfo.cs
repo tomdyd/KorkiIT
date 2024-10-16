@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("peselChecker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f856116d2c36c3d2bf8076f898151f6420b8c2e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62456589ce96c9cb99fe07159a03fea1d769716a")]
 [assembly: System.Reflection.AssemblyProductAttribute("peselChecker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("peselChecker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

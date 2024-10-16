@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = peselChecker
-build_property.ProjectDir = C:\Users\tdyda\source\repos\KorkiIT\PESEL\peselChecker\peselChecker\
+build_property.ProjectDir = C:\Users\tdyda\source\repos\KorkiIT\peselChecker\peselChecker\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,0 +1,14 @@
+C:\Users\tdyda\source\repos\appRunner\appRunner\bin\Debug\net8.0\appRunner.exe
+C:\Users\tdyda\source\repos\appRunner\appRunner\bin\Debug\net8.0\appRunner.deps.json
+C:\Users\tdyda\source\repos\appRunner\appRunner\bin\Debug\net8.0\appRunner.runtimeconfig.json
+C:\Users\tdyda\source\repos\appRunner\appRunner\bin\Debug\net8.0\appRunner.dll
+C:\Users\tdyda\source\repos\appRunner\appRunner\bin\Debug\net8.0\appRunner.pdb
+C:\Users\tdyda\source\repos\appRunner\appRunner\obj\Debug\net8.0\appRunner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tdyda\source\repos\appRunner\appRunner\obj\Debug\net8.0\appRunner.AssemblyInfoInputs.cache
+C:\Users\tdyda\source\repos\appRunner\appRunner\obj\Debug\net8.0\appRunner.AssemblyInfo.cs
+C:\Users\tdyda\source\repos\appRunner\appRunner\obj\Debug\net8.0\appRunner.csproj.CoreCompileInputs.cache
+C:\Users\tdyda\source\repos\appRunner\appRunner\obj\Debug\net8.0\appRunner.dll
+C:\Users\tdyda\source\repos\appRunner\appRunner\obj\Debug\net8.0\refint\appRunner.dll
+C:\Users\tdyda\source\repos\appRunner\appRunner\obj\Debug\net8.0\appRunner.pdb
+C:\Users\tdyda\source\repos\appRunner\appRunner\obj\Debug\net8.0\appRunner.genruntimeconfig.cache
+C:\Users\tdyda\source\repos\appRunner\appRunner\obj\Debug\net8.0\ref\appRunner.dll

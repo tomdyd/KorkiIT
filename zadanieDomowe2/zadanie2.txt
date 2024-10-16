@@ -1,0 +1,5 @@
+1. Przeanalizować plik appRunner w trybie debugowania (zaznaczyć z lewej strony czerwoną kropką miejsce w którym program ma zatrzymać wykonywanie programu, a następnie za pomocą klawisza F11 możemy przechodzić po kolejnych linijkach kodu). Spróbować napisać podobny program na podstawie appRunnera (bardziej zależy mi na tym żebyś zrozumiał co się dzieje w tym programie)
+
+2. Zadanie z peselem: Na ostatnich zajęciach pobraliśmy nr pesel od użytkownika i zwalidowaliśmy czy jest on poprawny w kontekście jego długości (11 cyfr). Spróbuj napisać funkcję która pobierze z wprowadzonego nr pesel 10 cyfrę (przedostatnią) i sprawdzi czy jest to liczba parzysta czy nieparzysta (z mojego pomysłu możemy użyć do tego cyfra % 2).
+
+3. Dowolnie wybrane zadania ze strony polski spoj 
