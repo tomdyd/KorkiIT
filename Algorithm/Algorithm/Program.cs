@@ -17,7 +17,6 @@ namespace Algorithm
             {
                 if (table[i] == 0)
                 {
-                    i++;
                     continue;
                 }
 
