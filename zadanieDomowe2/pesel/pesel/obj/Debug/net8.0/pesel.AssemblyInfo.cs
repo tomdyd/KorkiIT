@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pesel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62fffc154af0f740d2bb5942610f89dd8cb5ec38")]
 [assembly: System.Reflection.AssemblyProductAttribute("pesel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pesel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

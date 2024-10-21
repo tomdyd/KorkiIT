@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tdyda\\source\\repos\\pesel\\pesel\\pesel.csproj",
+      "projectUniqueName": "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\zadanieDomowe2\\pesel\\pesel\\pesel.csproj",
       "projectName": "pesel",
-      "projectPath": "C:\\Users\\tdyda\\source\\repos\\pesel\\pesel\\pesel.csproj",
+      "projectPath": "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\zadanieDomowe2\\pesel\\pesel\\pesel.csproj",
       "packagesPath": "C:\\Users\\tdyda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tdyda\\source\\repos\\pesel\\pesel\\obj\\",
+      "outputPath": "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\zadanieDomowe2\\pesel\\pesel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tdyda\\source\\repos\\pesel\\",
+  "WorkspaceRootPath": "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\zadanieDomowe2\\pesel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{35352CC4-EA99-469D-B603-4804F8B3C81C}|pesel\\pesel.csproj|c:\\users\\tdyda\\source\\repos\\pesel\\pesel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{35352CC4-EA99-469D-B603-4804F8B3C81C}|pesel\\pesel.csproj|c:\\users\\tdyda\\source\\repos\\korkiit\\zadaniedomowe2\\pesel\\pesel\\peselmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35352CC4-EA99-469D-B603-4804F8B3C81C}|pesel\\pesel.csproj|solutionrelative:pesel\\peselmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35352CC4-EA99-469D-B603-4804F8B3C81C}|pesel\\pesel.csproj|c:\\users\\tdyda\\source\\repos\\korkiit\\zadaniedomowe2\\pesel\\pesel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35352CC4-EA99-469D-B603-4804F8B3C81C}|pesel\\pesel.csproj|solutionrelative:pesel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,12 +27,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PeselModel.cs",
+              "DocumentMoniker": "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\zadanieDomowe2\\pesel\\pesel\\PeselModel.cs",
+              "RelativeDocumentMoniker": "pesel\\PeselModel.cs",
+              "ToolTip": "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\zadanieDomowe2\\pesel\\pesel\\PeselModel.cs",
+              "RelativeToolTip": "pesel\\PeselModel.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAEAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:50:40.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tdyda\\source\\repos\\pesel\\pesel\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\zadanieDomowe2\\pesel\\pesel\\Program.cs",
               "RelativeDocumentMoniker": "pesel\\Program.cs",
-              "ToolTip": "C:\\Users\\tdyda\\source\\repos\\pesel\\pesel\\Program.cs",
+              "ToolTip": "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\zadanieDomowe2\\pesel\\pesel\\Program.cs",
               "RelativeToolTip": "pesel\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-14T16:43:46.306Z",
               "EditorCaption": ""
