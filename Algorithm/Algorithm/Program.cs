@@ -22,7 +22,7 @@ namespace Algorithm
 
                 int result = 0;
                 for (int j = 2; result < 100; j++)
-                {                    
+                {
                     result = i * j;
                     if (result < 99)
                     {
@@ -35,16 +35,23 @@ namespace Algorithm
             {
                 if (table[k] == true)
                 {
-                    Console.Write($"{k}, ");
+                    if (k == 2)
+                    {
+                        Console.Write($"{k}");
+                    }
+                    else
+                    {
+                        Console.Write($", {k}");
+                    }
                 }
             }
-        }
 
-        static void fillTable(bool[] table)
-        {
-            for (int i = 0; i < table.Length; i++)
+            static void fillTable(bool[] table)
             {
-                table[i] = true;
+                for (int i = 0; i < table.Length; i++)
+                {
+                    table[i] = true;
+                }
             }
         }
     }
