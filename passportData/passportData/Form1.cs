@@ -2,7 +2,7 @@ namespace passportData
 {
     public partial class Form1 : Form
     {
-        string eyesColor = "Niebieskie";
+        string _eyesColor = "";
         public Form1()
         {
             InitializeComponent();
@@ -28,19 +28,19 @@ namespace passportData
             string name = NameTextBox.Text;
             string surname = SurnameTextBox.Text;
 
-            if (string.IsNullOrEmpty(name) || string.IsNullOrEmpty(surname) || string.IsNullOrEmpty(eyesColor))
+            if (string.IsNullOrEmpty(name) || string.IsNullOrEmpty(surname) || string.IsNullOrEmpty(_eyesColor))
             {
                 MessageBox.Show("Wprowadü dane");
                 return;
             }
-            MessageBox.Show($"{name} {surname} kolor oczu: {eyesColor}");
+            MessageBox.Show($"{name} {surname} kolor oczu: {_eyesColor}");
         }
 
         private void EyesColorBtn_CheckedChanged(object sender, EventArgs e)
         {
             if (sender is RadioButton rb && rb.Checked)
             {
-                eyesColor = rb.Text;
+                _eyesColor = rb.Text;
             }
         }
     }

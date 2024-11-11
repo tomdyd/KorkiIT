@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("passportData")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f856116d2c36c3d2bf8076f898151f6420b8c2e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+febfa9531f1c791299a2e62ed4f6550f8c8d84ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("passportData")]
 [assembly: System.Reflection.AssemblyTitleAttribute("passportData")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

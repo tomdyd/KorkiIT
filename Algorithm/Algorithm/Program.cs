@@ -23,7 +23,7 @@ namespace Algorithm
                 int result = 0;
                 for (int j = 2; result < 100; j++)
                 {
-                    result = i * j;
+                    result = i * j; 
                     if (result < 99)
                     {
                         table[result] = false;
