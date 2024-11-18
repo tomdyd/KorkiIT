@@ -1,0 +1,16 @@
+C:\Users\pilka\source\repos\dane\dane\bin\Debug\net8.0-windows\dane.exe
+C:\Users\pilka\source\repos\dane\dane\bin\Debug\net8.0-windows\dane.deps.json
+C:\Users\pilka\source\repos\dane\dane\bin\Debug\net8.0-windows\dane.runtimeconfig.json
+C:\Users\pilka\source\repos\dane\dane\bin\Debug\net8.0-windows\dane.dll
+C:\Users\pilka\source\repos\dane\dane\bin\Debug\net8.0-windows\dane.pdb
+C:\Users\pilka\source\repos\dane\dane\obj\Debug\net8.0-windows\dane.Form1.resources
+C:\Users\pilka\source\repos\dane\dane\obj\Debug\net8.0-windows\dane.csproj.GenerateResource.cache
+C:\Users\pilka\source\repos\dane\dane\obj\Debug\net8.0-windows\dane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pilka\source\repos\dane\dane\obj\Debug\net8.0-windows\dane.AssemblyInfoInputs.cache
+C:\Users\pilka\source\repos\dane\dane\obj\Debug\net8.0-windows\dane.AssemblyInfo.cs
+C:\Users\pilka\source\repos\dane\dane\obj\Debug\net8.0-windows\dane.csproj.CoreCompileInputs.cache
+C:\Users\pilka\source\repos\dane\dane\obj\Debug\net8.0-windows\dane.dll
+C:\Users\pilka\source\repos\dane\dane\obj\Debug\net8.0-windows\refint\dane.dll
+C:\Users\pilka\source\repos\dane\dane\obj\Debug\net8.0-windows\dane.pdb
+C:\Users\pilka\source\repos\dane\dane\obj\Debug\net8.0-windows\dane.genruntimeconfig.cache
+C:\Users\pilka\source\repos\dane\dane\obj\Debug\net8.0-windows\ref\dane.dll
