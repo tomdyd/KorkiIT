@@ -12,6 +12,7 @@ int[] tablica = [1, 2, 3, 4, 5, 6, 100, 99, 7, 25];
 //    }
 //    tablica[i] = cyfra;
 //}
+int number = 0;
 Sortowanie tak = new Sortowanie(tablica);
 tak.Sortuj();
 

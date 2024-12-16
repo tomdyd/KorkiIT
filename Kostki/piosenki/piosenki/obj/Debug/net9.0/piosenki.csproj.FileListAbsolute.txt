@@ -1,0 +1,15 @@
+C:\Users\tdyda\source\repos\KorkiIT\Kostki\piosenki\piosenki\bin\Debug\net9.0\piosenki.exe
+C:\Users\tdyda\source\repos\KorkiIT\Kostki\piosenki\piosenki\bin\Debug\net9.0\piosenki.deps.json
+C:\Users\tdyda\source\repos\KorkiIT\Kostki\piosenki\piosenki\bin\Debug\net9.0\piosenki.runtimeconfig.json
+C:\Users\tdyda\source\repos\KorkiIT\Kostki\piosenki\piosenki\bin\Debug\net9.0\piosenki.dll
+C:\Users\tdyda\source\repos\KorkiIT\Kostki\piosenki\piosenki\bin\Debug\net9.0\piosenki.pdb
+C:\Users\tdyda\source\repos\KorkiIT\Kostki\piosenki\piosenki\obj\Debug\net9.0\piosenki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tdyda\source\repos\KorkiIT\Kostki\piosenki\piosenki\obj\Debug\net9.0\piosenki.AssemblyInfoInputs.cache
+C:\Users\tdyda\source\repos\KorkiIT\Kostki\piosenki\piosenki\obj\Debug\net9.0\piosenki.AssemblyInfo.cs
+C:\Users\tdyda\source\repos\KorkiIT\Kostki\piosenki\piosenki\obj\Debug\net9.0\piosenki.csproj.CoreCompileInputs.cache
+C:\Users\tdyda\source\repos\KorkiIT\Kostki\piosenki\piosenki\obj\Debug\net9.0\piosenki.sourcelink.json
+C:\Users\tdyda\source\repos\KorkiIT\Kostki\piosenki\piosenki\obj\Debug\net9.0\piosenki.dll
+C:\Users\tdyda\source\repos\KorkiIT\Kostki\piosenki\piosenki\obj\Debug\net9.0\refint\piosenki.dll
+C:\Users\tdyda\source\repos\KorkiIT\Kostki\piosenki\piosenki\obj\Debug\net9.0\piosenki.pdb
+C:\Users\tdyda\source\repos\KorkiIT\Kostki\piosenki\piosenki\obj\Debug\net9.0\piosenki.genruntimeconfig.cache
+C:\Users\tdyda\source\repos\KorkiIT\Kostki\piosenki\piosenki\obj\Debug\net9.0\ref\piosenki.dll

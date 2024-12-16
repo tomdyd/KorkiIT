@@ -1,0 +1,15 @@
+C:\Users\tdyda\source\repos\KorkiIT\Kostki\kostki\kostki\bin\Debug\net9.0\kostki.exe
+C:\Users\tdyda\source\repos\KorkiIT\Kostki\kostki\kostki\bin\Debug\net9.0\kostki.deps.json
+C:\Users\tdyda\source\repos\KorkiIT\Kostki\kostki\kostki\bin\Debug\net9.0\kostki.runtimeconfig.json
+C:\Users\tdyda\source\repos\KorkiIT\Kostki\kostki\kostki\bin\Debug\net9.0\kostki.dll
+C:\Users\tdyda\source\repos\KorkiIT\Kostki\kostki\kostki\bin\Debug\net9.0\kostki.pdb
+C:\Users\tdyda\source\repos\KorkiIT\Kostki\kostki\kostki\obj\Debug\net9.0\kostki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tdyda\source\repos\KorkiIT\Kostki\kostki\kostki\obj\Debug\net9.0\kostki.AssemblyInfoInputs.cache
+C:\Users\tdyda\source\repos\KorkiIT\Kostki\kostki\kostki\obj\Debug\net9.0\kostki.AssemblyInfo.cs
+C:\Users\tdyda\source\repos\KorkiIT\Kostki\kostki\kostki\obj\Debug\net9.0\kostki.csproj.CoreCompileInputs.cache
+C:\Users\tdyda\source\repos\KorkiIT\Kostki\kostki\kostki\obj\Debug\net9.0\kostki.sourcelink.json
+C:\Users\tdyda\source\repos\KorkiIT\Kostki\kostki\kostki\obj\Debug\net9.0\kostki.dll
+C:\Users\tdyda\source\repos\KorkiIT\Kostki\kostki\kostki\obj\Debug\net9.0\refint\kostki.dll
+C:\Users\tdyda\source\repos\KorkiIT\Kostki\kostki\kostki\obj\Debug\net9.0\kostki.pdb
+C:\Users\tdyda\source\repos\KorkiIT\Kostki\kostki\kostki\obj\Debug\net9.0\kostki.genruntimeconfig.cache
+C:\Users\tdyda\source\repos\KorkiIT\Kostki\kostki\kostki\obj\Debug\net9.0\ref\kostki.dll

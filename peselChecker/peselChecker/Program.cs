@@ -38,6 +38,14 @@
             {
                 Console.WriteLine("Numer PESEL jest niepoprawny");
             }
+
+
+            string pesel1 = "123456789";
+
+            for (int i = 0; i < pesel1.Length; i++)
+            {
+                bool isNumber = int.TryParse(pesel1[i].ToString(), out int test);
+            }
         }
     }
 }

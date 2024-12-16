@@ -1,0 +1,14 @@
+D:\Projekty\Eratostenes\Eratostenes\bin\Debug\net9.0\Eratostenes.exe
+D:\Projekty\Eratostenes\Eratostenes\bin\Debug\net9.0\Eratostenes.deps.json
+D:\Projekty\Eratostenes\Eratostenes\bin\Debug\net9.0\Eratostenes.runtimeconfig.json
+D:\Projekty\Eratostenes\Eratostenes\bin\Debug\net9.0\Eratostenes.dll
+D:\Projekty\Eratostenes\Eratostenes\bin\Debug\net9.0\Eratostenes.pdb
+D:\Projekty\Eratostenes\Eratostenes\obj\Debug\net9.0\Eratostenes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projekty\Eratostenes\Eratostenes\obj\Debug\net9.0\Eratostenes.AssemblyInfoInputs.cache
+D:\Projekty\Eratostenes\Eratostenes\obj\Debug\net9.0\Eratostenes.AssemblyInfo.cs
+D:\Projekty\Eratostenes\Eratostenes\obj\Debug\net9.0\Eratostenes.csproj.CoreCompileInputs.cache
+D:\Projekty\Eratostenes\Eratostenes\obj\Debug\net9.0\Eratostenes.dll
+D:\Projekty\Eratostenes\Eratostenes\obj\Debug\net9.0\refint\Eratostenes.dll
+D:\Projekty\Eratostenes\Eratostenes\obj\Debug\net9.0\Eratostenes.pdb
+D:\Projekty\Eratostenes\Eratostenes\obj\Debug\net9.0\Eratostenes.genruntimeconfig.cache
+D:\Projekty\Eratostenes\Eratostenes\obj\Debug\net9.0\ref\Eratostenes.dll

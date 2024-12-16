@@ -24,12 +24,12 @@ namespace ConsoleApp9
                 if (i == j)
                 {
                     max = i;
-                    tempInt = _tablica[max];
+                    //tempInt = _tablica[max];
                 }
                 if(_tablica[max] < _tablica[i+1])
                 {
                     max = i + 1;
-                    tempInt = _tablica[max];
+                    //tempInt = _tablica[max];
                 }
             }
             return max;
