@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\ConsoleToDoList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98FCD12A-63BA-4890-AAFC-CB972761C033}|ConsoleToDoList\\ConsoleToDoList.csproj|c:\\users\\tdyda\\source\\repos\\korkiit\\consoletodolist\\consoletodolist\\services\\menuhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FCD12A-63BA-4890-AAFC-CB972761C033}|ConsoleToDoList\\ConsoleToDoList.csproj|solutionrelative:consoletodolist\\services\\menuhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FCD12A-63BA-4890-AAFC-CB972761C033}|ConsoleToDoList\\ConsoleToDoList.csproj|c:\\users\\tdyda\\source\\repos\\korkiit\\consoletodolist\\consoletodolist\\services\\apprunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FCD12A-63BA-4890-AAFC-CB972761C033}|ConsoleToDoList\\ConsoleToDoList.csproj|solutionrelative:consoletodolist\\services\\apprunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FCD12A-63BA-4890-AAFC-CB972761C033}|ConsoleToDoList\\ConsoleToDoList.csproj|c:\\users\\tdyda\\source\\repos\\korkiit\\consoletodolist\\consoletodolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FCD12A-63BA-4890-AAFC-CB972761C033}|ConsoleToDoList\\ConsoleToDoList.csproj|solutionrelative:consoletodolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FCD12A-63BA-4890-AAFC-CB972761C033}|ConsoleToDoList\\ConsoleToDoList.csproj|c:\\users\\tdyda\\source\\repos\\korkiit\\consoletodolist\\consoletodolist\\interfaces\\ifilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FCD12A-63BA-4890-AAFC-CB972761C033}|ConsoleToDoList\\ConsoleToDoList.csproj|solutionrelative:consoletodolist\\interfaces\\ifilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FCD12A-63BA-4890-AAFC-CB972761C033}|ConsoleToDoList\\ConsoleToDoList.csproj|c:\\users\\tdyda\\source\\repos\\korkiit\\consoletodolist\\consoletodolist\\services\\filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FCD12A-63BA-4890-AAFC-CB972761C033}|ConsoleToDoList\\ConsoleToDoList.csproj|solutionrelative:consoletodolist\\services\\filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FCD12A-63BA-4890-AAFC-CB972761C033}|ConsoleToDoList\\ConsoleToDoList.csproj|c:\\users\\tdyda\\source\\repos\\korkiit\\consoletodolist\\consoletodolist\\models\\todos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FCD12A-63BA-4890-AAFC-CB972761C033}|ConsoleToDoList\\ConsoleToDoList.csproj|solutionrelative:consoletodolist\\models\\todos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FCD12A-63BA-4890-AAFC-CB972761C033}|ConsoleToDoList\\ConsoleToDoList.csproj|c:\\users\\tdyda\\source\\repos\\korkiit\\consoletodolist\\consoletodolist\\services\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FCD12A-63BA-4890-AAFC-CB972761C033}|ConsoleToDoList\\ConsoleToDoList.csproj|solutionrelative:consoletodolist\\services\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FCD12A-63BA-4890-AAFC-CB972761C033}|ConsoleToDoList\\ConsoleToDoList.csproj|c:\\users\\tdyda\\source\\repos\\korkiit\\consoletodolist\\consoletodolist\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FCD12A-63BA-4890-AAFC-CB972761C033}|ConsoleToDoList\\ConsoleToDoList.csproj|solutionrelative:consoletodolist\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FCD12A-63BA-4890-AAFC-CB972761C033}|ConsoleToDoList\\ConsoleToDoList.csproj|c:\\users\\tdyda\\source\\repos\\korkiit\\consoletodolist\\consoletodolist\\interfaces\\imenuhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FCD12A-63BA-4890-AAFC-CB972761C033}|ConsoleToDoList\\ConsoleToDoList.csproj|solutionrelative:consoletodolist\\interfaces\\imenuhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FCD12A-63BA-4890-AAFC-CB972761C033}|ConsoleToDoList\\ConsoleToDoList.csproj|c:\\users\\tdyda\\source\\repos\\korkiit\\consoletodolist\\consoletodolist\\interfaces\\imenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FCD12A-63BA-4890-AAFC-CB972761C033}|ConsoleToDoList\\ConsoleToDoList.csproj|solutionrelative:consoletodolist\\interfaces\\imenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 217,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ToDos.cs",
+              "DocumentMoniker": "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\ConsoleToDoList\\ConsoleToDoList\\Models\\ToDos.cs",
+              "RelativeDocumentMoniker": "ConsoleToDoList\\Models\\ToDos.cs",
+              "ToolTip": "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\ConsoleToDoList\\ConsoleToDoList\\Models\\ToDos.cs",
+              "RelativeToolTip": "ConsoleToDoList\\Models\\ToDos.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:59:53.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuHandler.cs",
+              "DocumentMoniker": "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\ConsoleToDoList\\ConsoleToDoList\\Services\\MenuHandler.cs",
+              "RelativeDocumentMoniker": "ConsoleToDoList\\Services\\MenuHandler.cs",
+              "ToolTip": "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\ConsoleToDoList\\ConsoleToDoList\\Services\\MenuHandler.cs",
+              "RelativeToolTip": "ConsoleToDoList\\Services\\MenuHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T11:37:27.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFileHandler.cs",
+              "DocumentMoniker": "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\ConsoleToDoList\\ConsoleToDoList\\Interfaces\\IFileHandler.cs",
+              "RelativeDocumentMoniker": "ConsoleToDoList\\Interfaces\\IFileHandler.cs",
+              "ToolTip": "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\ConsoleToDoList\\ConsoleToDoList\\Interfaces\\IFileHandler.cs",
+              "RelativeToolTip": "ConsoleToDoList\\Interfaces\\IFileHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T14:35:26.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\ConsoleToDoList\\ConsoleToDoList\\Services\\Menu.cs",
+              "RelativeDocumentMoniker": "ConsoleToDoList\\Services\\Menu.cs",
+              "ToolTip": "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\ConsoleToDoList\\ConsoleToDoList\\Services\\Menu.cs",
+              "RelativeToolTip": "ConsoleToDoList\\Services\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:32:19.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\ConsoleToDoList\\ConsoleToDoList\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleToDoList\\Program.cs",
+              "ToolTip": "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\ConsoleToDoList\\ConsoleToDoList\\Program.cs",
+              "RelativeToolTip": "ConsoleToDoList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T14:08:41.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppRunner.cs",
+              "DocumentMoniker": "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\ConsoleToDoList\\ConsoleToDoList\\Services\\AppRunner.cs",
+              "RelativeDocumentMoniker": "ConsoleToDoList\\Services\\AppRunner.cs",
+              "ToolTip": "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\ConsoleToDoList\\ConsoleToDoList\\Services\\AppRunner.cs",
+              "RelativeToolTip": "ConsoleToDoList\\Services\\AppRunner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T14:42:22.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IMenuHandler.cs",
+              "DocumentMoniker": "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\ConsoleToDoList\\ConsoleToDoList\\Interfaces\\IMenuHandler.cs",
+              "RelativeDocumentMoniker": "ConsoleToDoList\\Interfaces\\IMenuHandler.cs",
+              "ToolTip": "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\ConsoleToDoList\\ConsoleToDoList\\Interfaces\\IMenuHandler.cs",
+              "RelativeToolTip": "ConsoleToDoList\\Interfaces\\IMenuHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T14:41:29.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskStatus.cs",
+              "DocumentMoniker": "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\ConsoleToDoList\\ConsoleToDoList\\TaskStatus.cs",
+              "RelativeDocumentMoniker": "ConsoleToDoList\\TaskStatus.cs",
+              "ToolTip": "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\ConsoleToDoList\\ConsoleToDoList\\TaskStatus.cs",
+              "RelativeToolTip": "ConsoleToDoList\\TaskStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T14:30:57.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileHandler.cs",
+              "DocumentMoniker": "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\ConsoleToDoList\\ConsoleToDoList\\Services\\FileHandler.cs",
+              "RelativeDocumentMoniker": "ConsoleToDoList\\Services\\FileHandler.cs",
+              "ToolTip": "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\ConsoleToDoList\\ConsoleToDoList\\Services\\FileHandler.cs",
+              "RelativeToolTip": "ConsoleToDoList\\Services\\FileHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T14:12:35.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMenu.cs",
+              "DocumentMoniker": "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\ConsoleToDoList\\ConsoleToDoList\\Interfaces\\IMenu.cs",
+              "RelativeDocumentMoniker": "ConsoleToDoList\\Interfaces\\IMenu.cs",
+              "ToolTip": "C:\\Users\\tdyda\\source\\repos\\KorkiIT\\ConsoleToDoList\\ConsoleToDoList\\Interfaces\\IMenu.cs",
+              "RelativeToolTip": "ConsoleToDoList\\Interfaces\\IMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T14:34:50.552Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\tdyda\source\repos\KorkiIT\ConsoleToDoList\ConsoleToDoList\bin\Debug\net9.0\ConsoleToDoList.exe
+C:\Users\tdyda\source\repos\KorkiIT\ConsoleToDoList\ConsoleToDoList\bin\Debug\net9.0\ConsoleToDoList.deps.json
+C:\Users\tdyda\source\repos\KorkiIT\ConsoleToDoList\ConsoleToDoList\bin\Debug\net9.0\ConsoleToDoList.runtimeconfig.json
+C:\Users\tdyda\source\repos\KorkiIT\ConsoleToDoList\ConsoleToDoList\bin\Debug\net9.0\ConsoleToDoList.dll
+C:\Users\tdyda\source\repos\KorkiIT\ConsoleToDoList\ConsoleToDoList\bin\Debug\net9.0\ConsoleToDoList.pdb
+C:\Users\tdyda\source\repos\KorkiIT\ConsoleToDoList\ConsoleToDoList\obj\Debug\net9.0\ConsoleToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tdyda\source\repos\KorkiIT\ConsoleToDoList\ConsoleToDoList\obj\Debug\net9.0\ConsoleToDoList.AssemblyInfoInputs.cache
+C:\Users\tdyda\source\repos\KorkiIT\ConsoleToDoList\ConsoleToDoList\obj\Debug\net9.0\ConsoleToDoList.AssemblyInfo.cs
+C:\Users\tdyda\source\repos\KorkiIT\ConsoleToDoList\ConsoleToDoList\obj\Debug\net9.0\ConsoleToDoList.csproj.CoreCompileInputs.cache
+C:\Users\tdyda\source\repos\KorkiIT\ConsoleToDoList\ConsoleToDoList\obj\Debug\net9.0\ConsoleToDoList.sourcelink.json
+C:\Users\tdyda\source\repos\KorkiIT\ConsoleToDoList\ConsoleToDoList\obj\Debug\net9.0\ConsoleToDoList.dll
+C:\Users\tdyda\source\repos\KorkiIT\ConsoleToDoList\ConsoleToDoList\obj\Debug\net9.0\refint\ConsoleToDoList.dll
+C:\Users\tdyda\source\repos\KorkiIT\ConsoleToDoList\ConsoleToDoList\obj\Debug\net9.0\ConsoleToDoList.pdb
+C:\Users\tdyda\source\repos\KorkiIT\ConsoleToDoList\ConsoleToDoList\obj\Debug\net9.0\ConsoleToDoList.genruntimeconfig.cache
+C:\Users\tdyda\source\repos\KorkiIT\ConsoleToDoList\ConsoleToDoList\obj\Debug\net9.0\ref\ConsoleToDoList.dll
